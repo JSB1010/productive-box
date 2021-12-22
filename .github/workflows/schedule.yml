@@ -13,5 +13,5 @@ jobs:
         uses: JSB1010/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 103b602666c0a6fb813d612f8884eb94
+          GIST_ID: c58676d3c7b3c19d62995576fa4e676a
           TIMEZONE: Asia/Taipei
